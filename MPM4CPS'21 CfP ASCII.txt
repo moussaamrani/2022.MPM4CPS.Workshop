@@ -1,0 +1,137 @@
+================================================================
+MPM4CPS 2020 — Call for Papers
+
+SUBMISSION DEADLINE: July 24, 2020
+
+2nd International Workshop on Multi-Paradigm Modeling for Cyber-Physical Systems
+
+18-19 October 2020 -- Montréal, Canada
+
+https://msdl.uantwerpen.be/conferences/MPM4CPS/2020/
+https://easychair.org/conferences/?conf=mpm4cps2020
+
+Co-located with the ACM / IEEE 23rd International Conference on 
+Model Driven Engineering Languages and Systems (MODELS)
+
+http://modelsconference.org/
+
+================================================================
+
+# SCOPE
+
+Tackling the complexity involved in developing truly complex, designed systems
+is a topic of intense research and development. System complexity has
+drastically increased once software components were introduced in the form of
+embedded systems, controlling physical parts of the system, and has only grown
+in CPS, where the networking aspect of the systems and their environment are
+also considered. The complexity faced when engineering CPS is mostly due to the
+plethora of cross-disciplinary design alternatives and inter-domain
+interactions. To date, no unifying theory nor system design methods, techniques,
+or tools to design, analyze, and ultimately deploy CPS exist. Individual
+(physical systems, software, network) engineering disciplines offer only partial
+solutions and are no match for the complexity observed in CPS. Multi-Paradigm
+Modeling (MPM) offers a foundational framework for gluing the several
+disciplines together in a consistent way. The inherent complexity of CPS is
+broken down into different levels of abstraction and views, each expressed in
+appropriate modeling formalisms. MPM offers processes and tools that can
+combine, couple, and integrate each of the views that compose a system.
+
+MPM encompasses many research topics - from language engineering (for DSLs,
+including their (visual) syntax and semantics), to processes to support multi-
+view and multi-abstraction modeling, simulation for system analysis, and
+deployment. The added complexity that CPS bring compared to embedded and
+software-intensive systems requires to look at these new applications and how
+MPM techniques can be applied or adapted to them, tying together multiple
+domains. Many remaining research questions require answers from researchers in
+different domains, as well as a unified effort from researchers that work on
+supporting techniques and technologies.
+
+This workshop, the continuation of the successful MPM series of MoDELS
+workshops, is aimed at furthering the state-of-the-art as well as defining the
+future directions of this emerging research area by bringing together world
+experts in the field for an intense one-day workshop
+
+
+
+
+================================================================
+
+
+
+
+# TOPICS OF INTEREST (including, but not limited to)
+
+-	Heterogeneous models: multi-domain and multi-physics modeling, multi-view
+modeling, multi-abstraction modeling;
+
+-	Heterogeneity in modeling languages: "blended" textual/visual modeling,
+modular design of modeling languages, the modeling/formal
+analysis/simulation/synthesis of user interfaces;
+
+-	Multi-Paradigm Modeling techniques: model transformation, model composition
+and integration, modeling cross-domain interactions, model-based detection of
+unanticipated interactions in heterogeneous systems, (co-)simulation of
+heterogeneous models, machine learning applied to the design of CPS or their
+languages in an MPM context;
+
+-	Taxonomies and Catalogues of Multi-Paradigm Approaches.
+
+-	Applications of and experience with current MPM techniques, with a focus on
+Cyber-Physical Systems in domains such as automotive, aerospace, manufacturing,
+
+Contributions should clearly address the foundations of multi-paradigm modeling
+by demonstrating the use of models to achieve the stated objectives and discuss
+the benefits of explicit modeling
+
+
+================================================================
+
+
+# SUBMISSION PROCESS
+
+We accept three types of papers, submitted as PDF on EasyChair, with topics
+related to one of the Workshop’s topic:
+
+- Full research papers (10 pages) present a novel, innovative approach;
+- Short papers (5 pages) present new ideas or early-stage research, extensively
+discuss the experiences of the researchers with an MPM approach or demonstrate a
+tool;
+- Extended abstracts (1 page) for a “lightning talk” (possibly accompanied with
+a Poster), i.e. a short, focused talk that can spark lively debate.
+
+Submissions should be contributed via EasyChair: 
+https://easychair.org/conferences/?conf=mpm4cps2020
+
+Each submissions will be peer reviewed by at least three members of the PC.
+
+Accepted Research and Short papers will be published with the main conference’s
+workshop proceedings (Extended Abstracts will not be retained for publications).
+
+# IMPORTANT DATES #
+
+Paper submission deadline:  24 July 2020
+Notification of acceptance: 14 August 2020
+Workshop dates:            18 or 19 September 2020
+
+
+================================================================
+
+# ORGANISING COMMITTEE
+
+Simon Van Mierlo, University of Antwerp – Flanders Make
+Dominique Blouin, Télécom ParisTech
+Moussa Amrani, Université de Namur
+Julien Deantoni, Université Nice - Sophia Antipolis
+Manuel Wimmer, JKU Linz
+
+# STEERING COMMITTEE
+
+Hans Vangheluwe, University of Antwerp – Flanders Make & McGill University
+Pieter J. Mosterman, The Mathworks
+Jeff Gray, University of Alabama
+Vasco Amaral, Universidade Nova de Lisbo
+
+# PROGRAM COMMITTEE
+
+TBA soon!
+

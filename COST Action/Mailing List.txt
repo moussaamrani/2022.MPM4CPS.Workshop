@@ -1,0 +1,35 @@
+Surname,Name,Email
+Shaukat,Ali,shaukat@simula.no
+Rima,Al-Ali,alali@d3s.mff.cuni.cz
+Ivan,Lukovic,ivan@uns.ac.rs
+Vincent,Albert,vincent.albert@laas.fr
+Vasco,Amaral,vasco.amaral@fct.unl.pt
+Leja,Banjanovic-Mehmedovic,lejla.mehmedovic@untz.ba
+Ankica,Barisi,ankica.barisic@inria.fr
+Fernando,Barros,barros@dei.uc.pt
+Dominique,Blouin,dominique.blouin@telecom-paris.fr
+Etienne,Borde,etienne.borde@telecom-paris.fr
+Alessio,Bucaioni,alessio.bucaioni@mdh.se
+Didier,Buchs,Didier.Buchs@unige.ch
+Barbora,Buhnova,buhnova@fi.muni.cz
+Loli,Burgueno,lburguenoc@uoc.edu
+Paulo,Carreira,paulo.carreira@tecnico.ulisboa.pt
+Joachim,Denil,joachim.denil@uantwerpen.be
+Maya,Dimitrova,m.dimitrova@ir.bas.bg
+Ferhat,Erata,ferhat.erata@yale.edu
+Holger,Giese,Holger.Giese@hpi.de
+Claudio,Gomes,claudio.gomes@ece.au.dk
+Miguel,Goulao,mgoul@fct.unl.pt
+Sasho,Gramatikov,sasho.gramatikov@finki.ukim.mk
+Mauro,Iacono,mauro.iacono@unina2.it
+Peter,Kieseberg,peter.kieseberg@fhstp.ac.at
+Stefan,Klikovits,stefan@klikovits.net
+Merik,Meriste,merik.meriste@ttu.ee
+Eva,Navarro-Lopez,e.navarrolopez@wlv.ac.uk
+Oksana,Nikiforova,Oksana.Nikiforova@rtu.lv
+Patrizio,Pellicione,patrizio.pelliccione@gssi.it
+Vedra,Podobnik,vedran.podobnik@fer.hr
+Safdar Aqeel,Safdar,safdar.aqeel@dnb.no
+Zeljko,Vukovic,zeljkov@uns.ac.rs
+Haensel, Joachim <Joachim.Haensel@hpi.de>
+Jan Broenink <j.f.broenink@utwente.nl>

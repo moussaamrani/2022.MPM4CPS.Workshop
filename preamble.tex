@@ -1,0 +1,44 @@
+\documentclass[sigconf, english]{acmart}
+
+\ifxetex
+	\usepackage{csquotes}
+\else
+	\usepackage{babel}
+	\usepackage[utf8]{inputenc}
+	\usepackage[T1]{fontenc}
+\fi
+
+\usepackage{pdfpages}
+\usepackage[inline]{enumitem}
+
+% comments
+\newcommand{\boxedtext}[2]{\colorbox{#1}{\scriptsize\bfseries\textsf{#2}}}
+\newcommand{\nota}[3]{
+   \boxedtext{#2}{#1}
+       {$\blacktriangleright${#3}$\blacktriangleleft$}
+}
+\newcommand\source[1]{\nota{Source}{green}{#1}}
+\newcommand\todo[1]{\nota{TODO}{magenta}{#1}}
+\newcommand\note[1]{\nota{Note}{yellow}{#1}}
+\newcommand\placeholder[1]{\textless\textless#1\textgreater\textgreater}
+
+
+% from https://tex.stackexchange.com/a/346309
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+%\pagestyle{plain} % removes running headers
+
+
+\usepackage{listings}
+
+
+
+
+\acmConference[MODELS'19]{}{September 2019}{Munich, Germany}
+%
+\usepackage{pdfpages}
+\usepackage{pbox}
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+
+\newcommand{\pcmember}[3]{\item #2 #1, #3}

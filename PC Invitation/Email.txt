@@ -1,0 +1,34 @@
+Dear [*FIRST-NAME*],
+
+Would you join MPM4CPS as a PC Member?
+
+For the third time, we are organising the MPM4CPS (Multi-Paradigm Modelling for
+Cyber-Physical Systems) Workshop, which will be co-located with MoDELS 2021.
+
+Besides the regular paper formats (short, long, and "lightning talks"), we have
+two special kinds of submission this year:
+
+- contributing with an Exemplar of a CPS that is effectively modelled through an
+MPM approach (meaning with a mix of multi-formalisms, multi-abstractions, multi-
+view, etc.);
+
+- contributing with a description of a particular process for MPM design,
+deployement, maintenance, etc. in the form of an FTG+PM.
+
+We expect to ask you to review one regular paper max, with eventually one paper
+belonging to the special kinds. Based on the previous submission number and the
+(expected) size of the PC, we will keep this number minimal.
+
+Please note that the review process will likely take place during the three
+weeks before the 15th of August.
+
+If you cannot join, would you kindly refer us to some of your colleagues that
+would be able to join?
+
+Have a nice day!
+
+Best regards,
+
+Moussa Amrani,
+on behalf of the MPM4CPS Organising Committee
+http://msdl.cs.mcgill.ca/conferences/MPM4CPS/2021/

@@ -1,0 +1,46 @@
+Rima Al-Ali <alali@d3s.mff.cuni.cz>
+Shaukat Ali <shaukat@simula.no>
+Francis Bordeleau <francis.bordeleau@etsmtl.ca>
+Frédéric Boulanger <frederic.boulanger@centralesupelec.fr>
+Loli Burgueno <lburguenoc@uoc.edu>
+Antonio Cicchetti <antonio.cicchetti@mdh.se>
+Federico Ciccozzi <federico.ciccozzi@mdh.se>
+Andrea "D'Ambrogio" <dambro@uniroma2.it>
+Juan "de Lara" <Juan.deLara@uam.es>
+Esther Guerra <esther.guerra@uam.es>
+
+Hana Mkaouar <hana.mkaouar@telecom-paris.fr>
+Mauro Iacono <mauro.iacono@gmail.com>
+Soumyadip Bandyopadhyay <soumyadipb@goa.bits-pilani.ac.in>
+Ankica Barisic <akki55@gmail.com>
+Eugene Syriani <syriani@iro.umontreal.ca>
+Thomas Kuehne <thomas.kuehne@vuw.ac.nz>
+Stefan Klikovits <stefan.klikovits@gmail.com>
+Ivan Ruchkin <ruchkin.ivan@gmail.com>
+Sebastian Herzig <sebastian.herzig@gmail.com>
+
+Joachim Denil <joachim.denil@uantwerpen.be>
+Juergen Dingel <dingel@cs.queensu.ca>
+Ferhat Erata <ferhat.erata@yale.edu>
+Raheleh Eslampanah <raheleh.eslampanah@uantwerpen.be>
+Holger Giese <holger.giese@hpi.de>
+Martin Gogolla <Gogolla@informatik.uni-bremen.de>
+Gabor Karsai <gabor.karsai@vanderbilt.edu>
+Letitia Li <letitia.li@baesystems.com>
+Eva "Navarro-Lopez" <e.navarrolopez@wlv.ac.uk>
+Oksana Nikiforova <Oksana.Nikiforova@rtu.lv>
+
+Patrizio Pelliccione <patrizio.pelliccione@gssi.it>
+Ahsan Qamar <ahsan.qamar@gmail.com>
+Akshay Rajhans <arajhans@alumni.cmu.edu>
+Arend Rensink <arend.rensink@utwente.nl>
+Bran Selic <selic@acm.org>
+Martin Törngren <martint@kth.se>
+Antonio Vallecillo <av@lcc.uma.es>
+Tijs "van der Storm" <storm@cwi.nl>
+Daniel Varró <daniel.varro@mcgill.ca>
+Clark Verbrugge <clump@cs.mcgill.ca>
+
+Andreas Wortmann <wortmann@se-rwth.de>
+Tao Yue <tao@simula.no>
+Justyna Zander <justyna.zander@gmail.com>
