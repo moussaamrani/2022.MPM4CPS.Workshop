@@ -1,10 +1,11 @@
 ENGLISH MAILING LISTS
 
-ecoop-info@ecoop.org
 all@gemoc.org
 planetmde@imag.fr
-seworld@sigsoft.org [*]
 announcements.mpm4cps@lcc.uma.es
+ecoop-info@ecoop.org
+
+seworld@sigsoft.org [*]
 
 FRENCH AUDIENCE (who still advertise english messages)
 
